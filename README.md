@@ -14,8 +14,7 @@ also a gpu & driver that supports VK_KHR_dynamic_rendering
 
 ## How to init and build
 
-* git clone https://github.com/georgeouzou/vk_exp.git
-* cd vk_exp
+* clone repo
 * git submodule update --init --recursive
 * Linux: mkdir build; cd build; cmake ..; make
 * Windows: open as cmake local folder in Visual Studio 2019 
